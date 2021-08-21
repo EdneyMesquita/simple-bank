@@ -1,3 +1,3 @@
-module simple-bank
+module github.com/EdneyMesquita/simple-bank
 
-go 1.17
+go 1.16
